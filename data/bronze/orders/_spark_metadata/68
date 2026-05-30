@@ -1,0 +1,2 @@
+v1
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-836d9a10-42a1-4abc-97ea-6907e262c48b-c000.snappy.parquet","size":2262,"isDir":false,"modificationTime":1780127723889,"blockReplication":1,"blockSize":33554432,"action":"add"}

@@ -1,0 +1,11 @@
+v1
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-ac88b641-58fa-4e73-af38-1a39ffeed0d1-c000.snappy.parquet","size":839,"isDir":false,"modificationTime":1780127588403,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-f389ae9b-af20-47c6-8f19-6e485a61744c-c000.snappy.parquet","size":2289,"isDir":false,"modificationTime":1780127590178,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-e4b5e6cb-e5dc-421b-b203-aeba66f6188d-c000.snappy.parquet","size":2262,"isDir":false,"modificationTime":1780127591338,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-6f7f7032-dc20-4c81-9d7a-758ad26af7c6-c000.snappy.parquet","size":2288,"isDir":false,"modificationTime":1780127592968,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-484e5139-d14b-435d-8a3a-417d1e20e3ad-c000.snappy.parquet","size":2262,"isDir":false,"modificationTime":1780127594915,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-39129b89-6caa-483b-bef6-9faa52bdc449-c000.snappy.parquet","size":2261,"isDir":false,"modificationTime":1780127597024,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-7fc80116-2295-48ae-8609-b41d4c8b0152-c000.snappy.parquet","size":2297,"isDir":false,"modificationTime":1780127598944,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-3dd006a0-5bb6-4f1d-967d-4f3fdf0220fd-c000.snappy.parquet","size":2261,"isDir":false,"modificationTime":1780127600976,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-42bb51d5-3e96-44d0-867b-2de7d9482d8e-c000.snappy.parquet","size":2261,"isDir":false,"modificationTime":1780127603017,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/data/bronze/orders/part-00000-c480a7fe-a0cf-460a-ba42-b8f294fbc69e-c000.snappy.parquet","size":2289,"isDir":false,"modificationTime":1780127605075,"blockReplication":1,"blockSize":33554432,"action":"add"}
