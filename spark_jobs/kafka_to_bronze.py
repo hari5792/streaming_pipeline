@@ -27,6 +27,7 @@ kafka_df = spark.readStream \
     .option("kafka.bootstrap.servers", "kafka:29092") \
     .option("subscribe", "orders") \
     .option("startingOffsets", "latest") \
+    .option("failOnDataLoss", "false") \
     .load()
 
 # Convert Kafka Binary -> String
